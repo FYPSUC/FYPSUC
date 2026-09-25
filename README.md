@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../t&mmeme.png" width="100%" alt="meme" />
+  <img src="t&mmeme.png" width="100%" alt="meme" />
 </p>
 
 <div id="header" align="center">
