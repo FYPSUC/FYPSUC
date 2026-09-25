@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 20 * * *" # runs at every 8PM UTC+8
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Sync Coding Stats
