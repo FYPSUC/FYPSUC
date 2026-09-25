@@ -28,4 +28,9 @@
 
 <h3 align="center"> :bar_chart: My Life Time Spend In :</h3>
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
