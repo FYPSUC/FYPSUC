@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3 align="center"> Languages :pen:</h3>
+<h3 align="center"> Languages & Tools :pen:</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>&nbsp;
@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="center"> :bar_chart: My Life Time Spend In :</h3>
+<h3 align="center"> :bar_chart: The time I spent immersed in these language :</h3>
 <!--START_SECTION:waka-->
 
 ```txt
